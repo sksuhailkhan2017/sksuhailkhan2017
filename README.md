@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sksuhailkhan2017
-- 👀 I’m interested in data structures and algortihms
-- 🌱 I’m currently learning Machine Learning.
-- 💞️ I’m looking to collaborate on projects related to machine learning in languages like c,c++,python.0
+- 👀 I’m interested in Machine Learning.
+- 🌱 I’m currently gaining hands-on experience through AI/ML projects.
+- 💞️ I’m looking to collaborate on projects related to machine learning.
 
 
 <!---
