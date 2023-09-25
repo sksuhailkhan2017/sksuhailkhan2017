@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @sksuhailkhan2017
-- 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently gaining hands-on experience through AI/ML projects.
-- 💞️ I’m looking to collaborate on projects related to machine learning.
+- 🔗 Portfolio: https://sksuhailkhan.netlify.app/
+- 👀 I’m interested in Software Development as well as AI/ML.
+- 🌱 I’m currently gaining hands-on experience through AI/ML projects and developing websites.
+- 💞️ I’m looking to collaborate on projects related to AI/ML or Software Development.
 
 
 <!---
