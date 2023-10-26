@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @sksuhailkhan2017
 - 🔗 Portfolio: https://sksuhailkhan.netlify.app/
+- ![Static Badge](https://img.shields.io/badge/C-gray)
+
 - 👀 I’m interested in Software Development as well as AI/ML.
 - 🌱 I’m currently gaining hands-on experience through AI/ML projects and developing websites.
 - 💞️ I’m looking to collaborate on projects related to AI/ML or Software Development.
